@@ -1,0 +1,177 @@
+<mjml>
+  <mj-head>
+    <mj-style>
+      mj-image:hover {
+        opacity: 0.8;
+        border-color: #cccccc;
+      }
+    </mj-style>
+ <mj-font href="https://fonts.googleapis.com/css?family=Montserrat:normal,italic,bold&display=swap" name="Montserrat"></mj-font>
+    <mj-attributes>
+      <mj-text color="#011F3C"></mj-text>
+        <mj-all font-family="'Montserrat', 'Arial', sans-serif"></mj-all>
+      <mj-button background-color="#2191FB"></mj-button>
+    </mj-attributes>
+  </mj-head>
+  <mj-body background-color="#F0F0F0">
+    <mj-wrapper background-color="background:rgba(0,22,57,1); background:radial-gradient(ellipse at center,  rgba(1,68,134,1) 30%,rgba(0,22,57,1) 70%);">
+    <mj-section padding-top="0px">
+      <mj-column>
+        <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/732702bf-0f1f-1838-371d-b01528f032fc.png" width="200px" height="62px">
+        </mj-image>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-top="0px">
+      <mj-column>
+        <mj-text font-size="22px" color="white" align="center" font-weight="600">
+          Welcome to Salesforce+
+        </mj-text>
+        <mj-text font-size="16px" color="white" align="center" padding-bottom="30px">
+          You're in. Enjoy the first digital streaming service for business. Salesforce+ has original series and live events you can watch to grow your career.
+        </mj-text>
+        <mj-button font-size="16px" color="white">
+          Watch for free
+        </mj-button>
+      </mj-column>
+    </mj-section>
+      <mj-section padding-top="0px">
+          <mj-column>
+         <mj-text font-size="16px" color="white" font-weight="600">
+          Original series on Salesforce+ 
+        </mj-text>
+          </mj-column>
+      </mj-section>
+       <mj-section padding-top="0px">
+          <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/686b7ca5-bc61-7e94-4c7a-059025c01dbc.jpg" border-radius="10px">
+            </mj-image>
+          </mj-column>
+         <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/1f8f5363-ce59-268e-9c61-bdc226032596.jpg"  border-radius="10px">
+            </mj-image>
+          </mj-column>
+         <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/9ab245e0-2a2a-6720-f284-6df1edae48bd.jpg"  border-radius="10px">
+            </mj-image>
+          </mj-column>
+      </mj-section>
+    <mj-section padding-top="0px">
+      <mj-column>
+        <mj-divider border-color="white"></mj-divider>
+        </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px">
+      <mj-column>
+        <mj-text font-size="22px" color="white" align="center" font-weight="600">
+         Get your front row seat to live events
+        </mj-text>
+        <mj-text font-size="16px" color="white" align="center" padding-bottom="30px">
+          Join us for exclusive global broadcast – both line and on demand. Learn, connect, and grow at Salesforce events on your own time.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px">
+         <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/3b688cf2-8146-0396-6793-05789aa0b4d2.jpg"  border-radius="10px">
+            </mj-image>
+ <mj-text font-size="16px" color="white" align="left" font-weight="600">
+          DREAMFORCE
+        </mj-text>
+           <mj-text font-size="14px" color="white" align="left">
+          See what you’ll learn at the year’s most epic experience
+        </mj-text>
+          </mj-column>
+         <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/83df6bb1-39d2-3667-4af0-ff57db5e5d30.jpg"  border-radius="10px">
+            </mj-image>
+           <mj-text font-size="16px" color="white" align="left" font-weight="600">
+          CONNECTIONS 2022
+        </mj-text>
+           <mj-text font-size="14px" color="white" align="left">
+          Explore the best sessions on automation, connected data, and more
+        </mj-text>
+          </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px">
+      <mj-column>
+        <mj-button font-size="16px" color="white">
+          See more events
+        </mj-button>
+        </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px">
+      <mj-column>
+       <mj-divider border-color="white"></mj-divider>
+        </mj-column>
+    </mj-section>
+       <mj-section padding-top="0px">
+      <mj-column>
+        <mj-text font-size="22px" color="white" align="center" font-weight="600">
+         Watch what's trending
+        </mj-text>
+        <mj-text font-size="16px" color="white" align="center" padding-bottom="30px">
+          These hit episodes are inspiring peers in roles
+and industries just like yours.
+        </mj-text>
+      </mj-column>
+    </mj-section>
+      <mj-section padding-top="0px">
+         <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/7e2bca46-3d99-1e51-ad84-a8bdd144887b.jpg"  border-radius="10px">
+            </mj-image>
+ <mj-text font-size="14px" color="white" align="left" font-weight="600">
+          CONNECTIONS
+        </mj-text>
+           <mj-text font-size="14px" color="white" align="left">
+         Adam Grant explains how marketers can unlock creativity
+        </mj-text>
+          </mj-column>
+         <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/4c702e4a-1dc8-450d-d5e6-bc4c5b8a8bd0.jpg"  border-radius="10px">
+            </mj-image>
+           <mj-text font-size="14px" color="white" align="left" font-weight="600">
+          SLACK FRONTIERS
+        </mj-text>
+           <mj-text font-size="14px" color="white" align="left">
+          Redesigning your office for today and tomorrow
+        </mj-text>
+          </mj-column>
+        <mj-column>
+          <mj-image src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/c03bc47b-a8f6-d010-83e9-ac0586c02117.jpg"  border-radius="10px">
+            </mj-image>
+           <mj-text font-size="14px" color="white" align="left" font-weight="600">
+          LEGENDS OF LOW CODE
+        </mj-text>
+           <mj-text font-size="14px" color="white" align="left">
+         Reality competition: Trailblazers race to build apps
+        </mj-text>
+          </mj-column>
+      </mj-section>
+      <mj-section padding-top="0px">
+      <mj-column>
+        <mj-button font-size="16px" color="white">
+          Start streaming free
+        </mj-button>
+        </mj-column>
+      </mj-section>
+   </mj-wrapper>
+ 	<mj-section background-color="#0D0D0D">
+      <mj-column padding-top="15px">
+
+        <mj-text color="#FFFFFF" font-weight="bold" align="center" font-size="17px">
+          Stay Connected
+        </mj-text>
+
+        <!-- Social Icon -->
+        <mj-social padding="10px 0px" icon-size="40px" mode="horizontal">
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/7681567c-6045-470e-a0f4-0178e5fcc345.png"></mj-social-element>
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/a029983b-2f47-1d69-1c41-cba83efc4a90.png"></mj-social-element>
+          <mj-social-element padding="0 8px" alt="ig-icon" href="https://example.com" src="https://mcusercontent.com/f54564fe0104ad2bbdea7cb22/images/8124f094-a75f-6458-57ef-b8f4bab3a138.png"></mj-social-element>
+        </mj-social>
+        <mj-text font-size="12px" line-height="18px" padding-top="10px" color="#FFFFFF" align="center">
+          For more magical information, please visit our <a style="color:#FFFFFF;" href="#"> Help Center. </a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
